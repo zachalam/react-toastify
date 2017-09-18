@@ -121,7 +121,7 @@ class Toast extends Component {
         {...this.getToastProps()}
       >
         <div className={`toastify__body ${this.props.bodyClassName}`}>
-          {children} (sample text)
+          {children} 111
         </div>
         {closeButton !== false && closeButton}
         {
