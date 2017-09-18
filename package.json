@@ -33,6 +33,7 @@
   },
   "homepage": "https://github.com/fkhadra/react-toastify#readme",
   "dependencies": {
+    "markdown-to-jsx": "^5.4.2",
     "prop-types": "^15.5.8",
     "react-transition-group": "^1.1.2"
   },
